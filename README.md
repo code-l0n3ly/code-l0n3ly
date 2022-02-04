@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-l0n3ly&label=Profile%20views&color=0e75b6&style=flat" alt="code-l0n3ly" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-l0n3ly" alt="code-l0n3ly" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/l0n3lycoding" target="blank"><img src="https://img.shields.io/twitter/follow/l0n3lycoding?logo=twitter&style=for-the-badge" alt="l0n3lycoding" /></a> </p>
 
