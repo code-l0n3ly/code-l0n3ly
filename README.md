@@ -23,12 +23,9 @@
 <a href="https://twitter.com/l0n3lycoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="l0n3lycoding" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yousef-almutairi-aa5b25204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef-almutairi-aa5b25204" height="30" width="40" /></a>
 <a href="https://instagram.com/0k0k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0k0k" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/l0n3ly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="l0n3ly" height="30" width="40" /></a>
 </p>
 
 
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-l0n3ly&theme=radical" alt="code-l0n3ly" /></p>
  
  <br />
  
